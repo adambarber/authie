@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "bluebird": "^3.5.0",
-    "cachie": "0.0.15",
+    "cachie": "git://github.com/adambarber/cachie.git",
     "deferrari": "^1.0.3",
     "email-validator": "^1.0.7",
     "jsonwebtoken": "^7.3.0",
